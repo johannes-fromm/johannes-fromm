@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying for a Master's degree in Data Science at Chemnitz University of Technology.
+- 📫 How to reach me: mail@johannes-fromm.de
+
 <!--
 **johannes-fromm/johannes-fromm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
